@@ -58,4 +58,5 @@ jobs:
         cd $GOPATH/src
         kratos new kratos-demo
         cd kratos-demo
+        
         go build ./...
